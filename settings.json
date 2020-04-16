@@ -29,6 +29,10 @@
     "explorer.confirmDelete": false,
 
     "editor.rulers": [80,20],
+    
+    "emmet.syntaxProfiles": {"javascript": "jsx"},
+    "emmet.includeLanguages": {"javascript": "javascriptreact"},
+
 
 }
 
